@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Zachary Birchall)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment was to introduce us to the Git Repository and learn about it by making the topics that were to be written about, about the Git program..)
+
+## View Project
+https://zbirchall.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how a repository works and why it is important to the work being done in this class.)
+2. (I learned that repositories can be created in two different ways: cloning or importing.)
+3. (I learned how to back up my files onto GitHub and also Cloud9.)
 
